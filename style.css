@@ -226,10 +226,10 @@ img.active {
     margin-top: 50px;
   }
   .soleil-top::after {
-    top: 375px;
+    top: 40%;
   }
   .soleil-top::before {
-    top: 370px;
+    top: 38.5%;
   }
   .soleil-bottomsm {
     top: 330px;
